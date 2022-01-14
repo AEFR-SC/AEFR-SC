@@ -1,3 +1,8 @@
-- 2020云南省青少年编程三等奖
-- 2020云南省科技创新大赛机器人二等奖
-- 2021少年硅谷探月工程挑战赛二等奖
+# Hi there 👋
+
+![我的信息](https://github-readme-stats.vercel.app/api?username=AEFR-SC&show_icons=true&include_all_commits=true)
+
+![我最常用的语言](https://github-readme-stats.vercel.app/api/top-langs/?username=AEFR-SC&layout=compact)
+
+<!--
+**AEFR-SC/AEFR-SC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
